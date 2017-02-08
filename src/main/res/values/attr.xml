@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="visible_count"       format="integer"/>
+    <attr name="tabHighLightColor"   format="color"/>
+    <attr name="tabNormalColor"      format="color"/>
+    <declare-styleable name="ViewpagerIndicator">
+        <attr name="visible_count"/>
+        <attr name="tabHighLightColor"/>
+        <attr name="tabNormalColor"/>
+    </declare-styleable>
+</resources>
